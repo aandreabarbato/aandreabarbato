@@ -9,7 +9,6 @@ I am an IT Specialist and Systems Administrator with extensive experience in man
 My journey in computer science has ignited a deep passion for cybersecurity, and I am now dedicated to transitioning into this field, with a specific focus on becoming an Ethical Hacker or Penetration Tester. I am actively studying and developing the skills necessary to achieve this goal.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
