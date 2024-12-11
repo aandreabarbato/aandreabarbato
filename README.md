@@ -17,7 +17,6 @@ My journey in computer science has ignited a deep passion for cybersecurity, and
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
